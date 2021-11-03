@@ -21,7 +21,7 @@ let info = await transporter.sendMail({
     from: 'proyectotp2ort@hotmail.com', // sender address
     to: "irina.romero.ir@gmail.com", // list of receivers
     subject: "Entrada Cine", // Subject line
-    text: "Hola", // plain text body
+    text: "Hola Cine ", // plain text body
     html: "<b>Hola</b>", // html body
   });
 
