@@ -1,0 +1,104 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Irina",
+      "correo": "irina@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Kaiser",
+      "correo": "kaiser@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Martin",
+      "correo": "martin@gmail.com"
+    },
+    {
+      "nombre": "Docente virtual",
+      "correo": "prueba",
+      "id": 5
+    },
+    {
+      "nombre": "pepe",
+      "correo": "pedor",
+      "id": 6
+    },
+    {
+      "nombre": "pepe",
+      "correo": "pedor",
+      "id": 7
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 8
+    },
+    {
+      "nombre": "sssDocente virtual",
+      "correo": "prueba",
+      "id": 9
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 10
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 11
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 12
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 13
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 14
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 15
+    },
+    {
+      "nombre": "tempo",
+      "correo": "pedor",
+      "id": 16
+    },
+    {
+      "nombre": "pepe",
+      "correo": "pedor",
+      "id": 17
+    },
+    {
+      "nombre": "pepe",
+      "correo": "pedor",
+      "id": 18
+    },
+    {
+      "nombre": "pepe",
+      "correo": "darkpig@gmail.com",
+      "id": 19
+    },
+    {
+      "nombre": "pepe",
+      "correo": "darkpig@gmail.com",
+      "id": 20
+    },
+    {
+      "nombre": "pepe",
+      "correo": "darkpig@gmail.com",
+      "id": 21
+    }
+  ]
+}
